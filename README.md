@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahulmodak1
-- 👀 I’m interested in ... front End development
-- 🌱 I’m currently learning ...full stack development
+- 👀 I’m interested in ... Full Stack Development(MERN)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9476323492 whatsapp me
 
